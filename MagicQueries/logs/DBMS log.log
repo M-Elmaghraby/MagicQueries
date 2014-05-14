@@ -1,0 +1,54 @@
+2012-01-26 02:21:48,515 - DBMS.MagicQueriesLogger -INFO - Connection set , schema created successfully ,
+2012-01-26 02:22:02,252 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : Class1
+2012-01-26 02:22:08,013 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : Class2
+2012-01-26 02:22:15,231 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : Class3
+2012-01-26 02:26:44,890 - DBMS.MagicQueriesLogger -INFO - Table droped Successfully table name : Class3
+2012-01-26 02:26:44,901 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  droping done in table:Class3
+2012-02-23 02:59:10,524 - DBMS.MagicQueriesLogger -INFO - Connection set , schema created successfully ,
+2012-02-23 02:59:23,869 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : csed
+2012-02-23 02:59:56,675 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:00:05,452 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:00:12,561 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:00:17,270 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:02:42,123 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:03:24,534 - DBMS.MagicQueriesLogger -INFO - Connection set , schema loaded successfully ,
+2012-02-23 03:04:07,604 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:04:26,577 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:05:11,768 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:06:16,512 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:09:11,807 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  delete All done table:csed
+2012-02-23 03:09:19,436 - DBMS.MagicQueriesLogger -INFO - Table droped Successfully table name : csed
+2012-02-23 03:09:19,448 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  droping done in table:csed
+2012-02-23 03:09:52,111 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : csed
+2012-02-23 03:10:40,073 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:11:07,403 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:11:23,648 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:11:54,115 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:12:07,174 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  delete All done table:csed
+2012-02-23 03:12:29,765 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:12:49,013 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:14:47,782 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:15:11,028 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:15:43,840 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:15:54,655 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:16:05,618 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:16:58,799 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  deletion done table:csed
+2012-02-23 03:17:42,961 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:18:00,153 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  delete All done table:csed
+2012-02-23 03:19:05,321 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:19:25,104 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  updateAll done in table:csed
+2012-02-23 03:19:56,856 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  update cells done in table:csed
+2012-02-23 03:20:38,266 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  update cells done in table:csed
+2012-02-23 03:21:26,897 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  updateAll done in table:csed
+2012-02-23 03:22:03,928 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : electric
+2012-02-23 03:22:18,110 - DBMS.MagicQueriesLogger -INFO - Table droped Successfully table name : electric
+2012-02-23 03:22:18,122 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully  droping done in table:electric
+2012-02-23 03:24:33,185 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:24:43,139 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:25:14,502 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:25:42,983 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:26:15,153 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:26:41,703 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:26:53,145 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-02-23 03:27:15,007 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:csed
+2012-02-23 03:28:14,716 - DBMS.MagicQueriesLogger -INFO - Connection set , schema loaded successfully ,

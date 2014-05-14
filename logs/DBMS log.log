@@ -1,0 +1,13 @@
+2012-07-05 14:49:38,704 - DBMS.MagicQueriesLogger -INFO - Connection set , schema created successfully ,
+2012-07-05 14:49:46,687 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : Students
+2012-07-05 14:53:10,385 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-07-05 14:54:37,990 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-07-05 14:54:56,056 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-07-05 14:55:53,554 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-11-19 17:14:07,266 - DBMS.MagicQueriesLogger -INFO - Connection set , schema created successfully ,
+2012-11-19 17:14:20,245 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : CSED
+2012-11-19 17:17:24,076 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:CSED
+2012-11-19 17:18:22,904 - DBMS.MagicQueriesLogger -ERROR - Failed to excute query
+2012-11-19 17:18:29,471 - DBMS.MagicQueriesLogger -INFO - Query executed Successfully , insertion done in table:CSED
+2014-03-02 01:35:42,697 - DBMS.MagicQueriesLogger -INFO - Connection set , schema created successfully ,
+2014-03-02 01:36:00,136 - DBMS.MagicQueriesLogger -INFO - Table Created Successfully tableName : students
